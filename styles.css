@@ -1,0 +1,34 @@
+header
+{
+    background-color: #120323;
+    color: #97bf04;
+    padding: 1%;
+    text-align: center;
+}
+
+main img{
+    max-height: 900px;
+    max-width: 600px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    box-shadow: -1px -1px 10px 4px black;
+    border-radius: 10px;
+    margin-top: 4%;
+}
+section{
+    margin-top: 2%;
+}
+.photography{
+    border-radius: 10px;
+    background-color: #d9043d;
+}
+#animal1{
+    background-color: #97bf04;
+}
