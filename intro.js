@@ -46,6 +46,6 @@ animal1.addEventListener('click', function(){
     document.getElementById("animal5").style.backgroundColor= "#d9043d";
     document.getElementById("animal3").style.backgroundColor= "#d9043d";
     document.getElementById("animal4").style.backgroundColor= "#d9043d";
-    document.getElementById("animal5").style.backgroundColor= "#d9043d";
+    document.getElementById("animal2").style.backgroundColor= "#d9043d";
     
 })
